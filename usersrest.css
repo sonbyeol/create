@@ -1,0 +1,17 @@
+/* styles.css */
+
+.dashboard-container {
+  display: flex;
+}
+
+.box {
+  width: 200px;
+  height: 150px;
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+}
+
+.box h2 {
+  margin-top: 0;
+}
